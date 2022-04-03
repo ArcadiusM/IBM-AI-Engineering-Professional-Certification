@@ -1,0 +1,12 @@
+name: ibm-ai
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - jupyter=1.0 # to edit and run Jupyter notebooks
+  - python=3.8.13 # Python! Not using latest version as some libs lack support
+  - pytorch=1.11.0
+  - matplotlib=3.4.3
+  - numpy=1.19.5
+  - pandas=1.4.0
