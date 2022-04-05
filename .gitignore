@@ -10,8 +10,11 @@ __pycache__/
 *.png
 *.jpg
 
-# Folder with pctures
+# Folder with pictures
 img/
+
+# Folder with data
+data/
 
 # CSV files
 *.csv
