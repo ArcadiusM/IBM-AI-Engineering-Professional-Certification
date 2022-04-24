@@ -16,6 +16,9 @@ img/
 # Folder with data
 data/
 
+# Models
+*.h5
+
 # CSV files
 *.csv
 
